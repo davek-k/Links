@@ -69,3 +69,19 @@
 * https://slack.com/
 * https://slack.com/is/team-communication
 * http://indatus.github.io
+
+Nice fonts
+* Avenir Next
+* Maven Pro
+* Helvetica Neue
+* Proxima Nova [H1]
+* Segoe UI
+* Droid Sans
+* Skolar 
+* Museo [H1]
+* Open Sans
+* Brandon-grotesque [H1]
+* Baskerville
+* Calisto MT
+* Mercury SSm A/ SSm B
+* Gotham SSm A/ SSm B
