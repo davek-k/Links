@@ -70,7 +70,7 @@
 * https://slack.com/is/team-communication
 * http://indatus.github.io
 
-Nice fonts
+# Nice fonts
 * Avenir Next
 * Maven Pro
 * Helvetica Neue
